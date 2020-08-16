@@ -1,0 +1,4 @@
+Pre-Requisites for OOPS Practice Problem
+
+1. Need to add "mysql-connector-java-5.1.47-bin.jar" file to NetBeans Project "UserAddressBook"
+2. Connect to the database "addrbook" in NetBeans
